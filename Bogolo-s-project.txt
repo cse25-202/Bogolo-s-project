@@ -1,0 +1,130 @@
+ <!doctype html>
+ <html>
+     <head>
+	    <title>
+		     Nail Treatment Page
+		</title>
+		<style type="text/css">
+		  body{
+		       background: #5e5d61;
+			   margin: 0 15%;
+			   border: solid #000 thin;
+               box-shadow: 3px  5px 10px #fff;
+               padding:  13px;
+          }
+          header{
+		     background: #75342f;
+		     padding: 10px;
+		     min-height: 100px;
+	      }
+		  
+      	  header img{
+		     float: left;
+			 border: #ccc thin solid;
+			 margin-right: 25px;
+		  {
+		  header form{
+		     float: right;
+		  }
+		  header form input#search{
+		  background:  #aef;
+		  height: 20px;
+		  border-radius: 10px;
+		  padding-left: 10x;
+		
+		 }
+		 nav{ 
+		    margin-top: 15px;
+			background: #aef;
+			min-height: 40px;
+            padding: 10px 6px;
+         }
+         nav ul li{
+            display: inline;
+            margin: 10px 20px;
+            backround: #999;
+            padding: 10px;
+         }
+         nav ul li a{
+            colour:  #fff;
+			text-decoration: none;
+			font-weight: 700;
+			font-family: verdana;
+	     }
+		 nav ul li:hover{
+		    background:  #ccc;
+		 }
+		 article{
+		    margin-top:10px;
+			background:  #ccc;
+			width: 60%;
+			float: left;
+		 }
+		 article img{
+		    float:left;
+			margin: 10px;
+			border: solid thin  #999;
+			box-shadow: 3px 4px 6px  #000;
+		 }
+		 aside{
+		    margin-top: 12px;
+			margin-left: 25px;
+			background:  #aef;
+			border-left:  #000 solid 3px;
+			padding: 0 10px;
+			float: right;
+			width: 35%;
+		 }
+		 aside section{
+		   background:  #ccc;
+		   min-height: 100px;
+		   margin: 10px;
+		 }
+		 div#clear-space{
+		    clear: both;
+	     }
+		 footer{
+		   margin-top: 12px;
+		       text-align: center;
+			   border-top: solid thin  #000;
+         }
+	   </style>
+	</head>
+	<body>
+	    <header>
+		     <img arc="" alt="logo goes here" width="150" height="150" />
+			 <h1>Bogolo's Nail Treatment</h1>
+		</header>
+		<nav>
+		    <ul>
+			    <li><a href="">Home</a></li>
+				<li><a href="">About Us</a></li>
+				<li><a href="">Products</a></li>
+				<li><a href="">Services</a></li>
+				<li><a href="">Contact Us</a></li>
+			</ul>
+		</nav>
+		<article>
+		    <img src="" alt="main image" width="250px" height="200px" />
+			<p>Experience the timeless beauty of French tip nails — classic, clean, and effortlessly chic.
+			Perfect for any occasion, they add a touch of sophistication that never goes out of style. Treat yourself to nails that speak confidence and grace.</p>
+			<p>Elevate your style with Stilleto Nails.Slay the game with our show-stopping designs,expertly crafted to make you stand out.Unleash your inner diva 
+			and expertly designed nail art that'll make you feel like a queen</p>
+			<p>Nails that speak volumes.Treat yourself to a little luxury subtle, bold natural nail art with geometric patterns.</p>
+		</article>
+		<aside>
+		    <section>
+			    top section
+			</section>
+			<section>
+			     bottom section
+		    </section>
+		</aside>
+		<div id="clear space">
+		</div>
+		<footer>
+		    <span>Copyrights &copy; 2026.All rights reserved.</p>
+		</footer>
+	</body>
+ </html>
+			
